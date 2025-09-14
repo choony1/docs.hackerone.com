@@ -4,10 +4,10 @@
   "version": "1.0.0",
   "author": "HackerOne <support@hackerone.com>",
   "dependencies": {
-    "@fec/gatsby-plugin-advanced-feed": "^1.1.0",
+    "@fec/gatsby-plugin-advanced-feed": "^3.0.1",
     "@reach/router": "^1.1.1",
-    "gatsby": "^2.18.17",
-    "gatsby-cli": "^2.12.15",
+    "gatsby": "^5.14.0",
+    "gatsby-cli": "^4.5.0",
     "gatsby-link": "^2.2.6",
     "gatsby-plugin-algolia-docsearch": "^1.0.5",
     "gatsby-plugin-csp": "^1.1.3",
